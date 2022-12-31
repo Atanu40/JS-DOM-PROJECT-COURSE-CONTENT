@@ -1,0 +1,2 @@
+# JS-DOM-PROJECT-COURSE-CONTENT
+MiniProject
